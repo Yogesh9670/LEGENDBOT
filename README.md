@@ -55,7 +55,7 @@
 
 - Change Name Of Repo
 
-- Click Below Deploy To Heroku yogesh9670
+- Click Below Deploy To Heroku 
 
 
 - [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)yogesh9670
